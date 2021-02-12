@@ -1,3 +1,3 @@
-#Welcome to this repo
+Welcome to this repo
 
-###You are encouraged to cite and collaborate
+You are encouraged to cite and collaborate
